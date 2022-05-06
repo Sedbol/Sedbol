@@ -1,10 +1,10 @@
 - 👋 Привет мое имя Perfect
 - 👀 Красота и локаничность кода
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 В настоящие время валяю дурака ...
+- 💞️ Любовь всей моей жизни Юлия Воронцова
+- 📫 Мой EMAIL:sedbol@mail.ru
 
 <!---
-Sedbol/Sedbol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sedbol/Sedbol is a ✨ special ✨ repository.
 You can click the Preview link to take a look at your changes.
 --->
